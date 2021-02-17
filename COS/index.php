@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '/srv/http/head.php'; ?>
+<?php include '/srv/www/htdocs/head.php'; ?>
 <body>
-<?php include '/srv/http/titlebar.php'; ?>
+<?php include '/srv/www/htdocs/titlebar.php'; ?>
 <h1>Commodore OS Vision</h1>
 <p>
 I remember looking through a LINUX family three and seeing Commodore OS. This made me puzzled, surly Commodore went bankrupt in the 90's?<br>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '/srv/http/head.php'; ?>
+<?php include '/srv/www/htdocs/head.php'; ?>
 <body>
-<?php include '/srv/http/titlebar.php'; ?>
+<?php include '/srv/www/htdocs/titlebar.php'; ?>
 <h1>Windows on NES !!</h1>
 <p><strong>Have you ever wanted to run Microsoft Windows on NES? Well of course not! <br>
 However, the bootleggers could not hear you out on that and did it anyway.</strong></p>
