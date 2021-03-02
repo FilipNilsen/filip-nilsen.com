@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '/srv/www/htdocs/head.php'; ?>
+<?php include '../head.php'; ?>
 <body>
-<?php include '/srv/www/htdocs/titlebar.php'; ?>
+<?php include '../titlebar.php'; ?>
 <h1>The worst English I've ever seen in a video game</h1>
 <p>
   <a href="https://en.wikipedia.org/wiki/Blazing_Star"><u>Blazing Star</u></a> is a video game released for the SNK NEOGEO in 1998<br>

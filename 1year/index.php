@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '/srv/www/htdocs/head.php'; ?>
+<?php include '../head.php'; ?>
 <body>
-<?php include '/srv/www/htdocs/titlebar.php'; ?>
+<?php include '../titlebar.php'; ?>
 <h1>One year online</h1>
 <p>
 Well, this site has been up for a year now and i would like to thank everybody who has read on it.<br>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '/srv/www/htdocs/head.php'; ?>
+<?php include '../head.php'; ?>
 <body>
-<?php include '/srv/www/htdocs/titlebar.php'; ?>
+<?php include '../titlebar.php'; ?>
 <h1>Tiled backgrounds from Windows</h1>
 <p>
 I opened several Virtual Hard Disks (.vhd) with old versions of windows installed in 7-zip to extract tiled backgrounds from the windows backgrounds folder.<br>
