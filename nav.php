@@ -1,5 +1,3 @@
-<?php
-echo '
 <div id="nav">
 <ul>
     <li><a href="winfornes/index.php">Windows on NES</a></li>
@@ -10,5 +8,3 @@ echo '
     <li><a href="gammel_e18/index.php">Gammel del av E18 som nå er stengt av</a></li>
 </ul>
 </div>
-'
-?>
